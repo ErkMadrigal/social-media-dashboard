@@ -1,3 +1,8 @@
+# Social-Madia-Dashboard
+
+
+![Portada del proyecto](assets/img.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
